@@ -22,4 +22,4 @@ Este projeto foi desenvolvido como parte de um curso "Praticando Spring Boot: Ch
 Desenvolvido por Marcos Sabino
 
 🔗 [Seu LinkedIn](https://www.linkedin.com/in/marcos-sabino-90b1b5a5/)  
-🐙 [Seu GitHub](https://github.com/Marcos-dev348)
+🐙 [Seu GitHub](https://github.com/MaSabino74)
