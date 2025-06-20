@@ -1,4 +1,4 @@
-<h1 align="center"> LiterAlura </h1>
+
 
 # Projeto LiterAlura: Uma Biblioteca Virtual Interativa
 O LiterAlura é um projeto de biblioteca virtual desenvolvido para o GitHub, focado na criação de um catálogo de livros dinâmico e funcional. Este desafio visa aprimorar habilidades em desenvolvimento back-end através da integração com uma API externa e da persistência de dados em um banco de dados relacional.
